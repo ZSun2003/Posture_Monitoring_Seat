@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build and packaging outputs
+build/
+dist/
+*.egg-info/
+
+# Local IDE/editor settings
+.vscode/
+.idea/
+
+# Local environment files
+.env
+.env.*
+
+# Logs
+*.log
+
